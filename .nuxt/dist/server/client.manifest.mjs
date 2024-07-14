@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Usuario/OneDrive/Escritorio/Mindy%20Front/mindy-front/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
