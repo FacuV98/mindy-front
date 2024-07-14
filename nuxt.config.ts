@@ -10,7 +10,6 @@ export default defineNuxtConfig({
     transpile: ['vuetify']
   },
   modules:[
-    '@pinia/nuxt',
-    '@sidebase/nuxt-auth'
+    '@pinia/nuxt'
   ]
 })
